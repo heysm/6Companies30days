@@ -1,5 +1,7 @@
 **Company Name :** Goldman Sachs
 
+- original link - https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub
+
 Questions :
 
 \1. [Given an array of strings, return all groups of strings that are anagrams.](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)

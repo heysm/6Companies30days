@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngkey.com/png/full/17-170274_amazon-logo-png-logo-amazon-mexico-png.png">
+  <img src="https://zeevector.com/wp-content/uploads/LOGO/Amazon-India-Logo-PNG-HD.png" height="50%" width="50%">
 </p>
 
 <br/>

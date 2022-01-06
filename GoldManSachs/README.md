@@ -26,17 +26,26 @@ Questions :
 
 [if ](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[str2](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[ does not divide ](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[str1](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[, return -1. Otherwise, return the smallest string](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 [str3](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[ such that ](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[str3](https://leetcode.com/problems/greatest-common-divisor-of-strings/)[ divides both str1 and str2.](https://leetcode.com/problems/greatest-common-divisor-of-strings/
+
 7. F[ind the kid which gets tha damaged toy](https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/)
+
 8. [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)
+
 9.[Given a pattern containing only I's and D's. I for increasing and D](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 [for decreasing.Devise an algorithm to print the minimum number following](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)[  that pattern.](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 
+
 10. Find max 10 numbers in a list having 10M entries.
+
 11. [Given an unsorted array Arr of size N of positive integers. One number](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/)
 ['A' from     set {1, 2, …N} is missing and one number 'B'](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/)
 [occurs twice in array. Find these two numbers.](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/)
+
 12. Find total number of Squares in a N\*N chessboard
+
 13.[Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
+
 14.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
 15.[Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
 

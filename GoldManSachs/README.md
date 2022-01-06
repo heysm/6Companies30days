@@ -1,4 +1,4 @@
-<img src="https://about.gitlab.com/images/case_study_logos/GSsignature_Blue.png">
+<img src="https://about.gitlab.com/images/case_study_logos/GSsignature_Blue.png" align="center">
 
 <br/>
 

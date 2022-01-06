@@ -23,4 +23,7 @@
 | 14. [MinSizeSubarray](https://leetcode.com/problems/minimum-size-subarray-sum/)
 | 15. [ArrayPairs](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) 
 
-Questions Link - https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub
+<br>
+
+## References 
+> [Arsh Goyal's GS Sheet](https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub) 

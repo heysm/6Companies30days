@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zeevector.com/wp-content/uploads/LOGO/Amazon-India-Logo-PNG-HD.png" height="50%" width="50%">
+  <img src="https://pnggrid.com/wp-content/uploads/2021/05/Amazon-Logo-Transparent-1024x310.png" height="50%" width="50%">
 </p>
 
 <br/>

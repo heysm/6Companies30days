@@ -1,6 +1,7 @@
-# Goldman Sachs
+<img src="https://about.gitlab.com/images/case_study_logos/GSsignature_Blue.png">
 
-Questions Link - https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub
+<br/>
+
 
 | Question      | logic       |
 | -----------   | ----------- |
@@ -8,7 +9,9 @@ Questions Link - https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNu
 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)    | Two Pointers + ```count += right - left + 1```        |
 | [Overlapping Rectangle](https://leetcode.com/problems/rectangle-overlap/) | two rectangles dont overlap when one side is out of reach of other from left & right|
 
+--------------------------------------------
 
+Questions Link - https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub
 
 
 Questions :

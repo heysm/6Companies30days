@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://enoumen.com/wp-content/uploads/2021/01/faangm.png">
+</p>
+
 # Company List
 
 This site contains the solution and questions of the recently asked questions for SDE roles in top MNC's. The list is not exhaustive, it is part of a challenge by Arsh Goyal.

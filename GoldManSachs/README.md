@@ -10,7 +10,7 @@
 | 1. [Group Anagrams ](https://leetcode.com/problems/group-anagrams/)        | [sort each word + maintain a hashmap of strings](1.GroupAnagram.md)     | M |
 | 2. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)    | [Two Pointers](2.SubArrayProductLessthanK.md) + ```count += right - left + 1```        | M |
 | 3. [Overlapping Rectangle](https://leetcode.com/problems/rectangle-overlap/) | two rectangles dont overlap when one side is out of reach of other from left & right| E |
-| 4. [UglyNumber 2 ](https://leetcode.com/problems/ugly-number-ii/) | [Use a set or pq to revaluate the min each time, set.pb(currX {2,3,5} ), set.erase(curr) ](3.UglyNumbers.md) | M |
+| 4. [UglyNumber 2 ](https://leetcode.com/problems/ugly-number-ii/) | [Use a set or pq to revaluate the min each time, set.pb(currX {2,3,5} ), set.erase(curr) <br/> DP idea - since each number can be generated from former ugly numbers by multiplying 2,3,5 (maintain pointers at 2,3,5) and increment accordingly ](3.UglyNumbers.md) | M |
 | 5. [RunLengthEncoding](https://leetcode.com/problems/string-compression/) | tbd | M |
 | 6. [GCD Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | tbd | |
 | 7. [MthPosition](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/) || |

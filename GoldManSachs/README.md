@@ -17,7 +17,7 @@
 | 8. [DecodeWays](https://leetcode.com/problems/decode-ways/) || |
 | 9. [ID pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1) || |
 | 10. [top10in10m](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | |
-| 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) || |
+| 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) | [use indices as a measure (-1* if found ) ](11.MissingNumbers.md) | |
 | 12. [TotalSquaresChess](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1) | ```(n*(n+1)*((2*n)+1))/6``` | B |
 | 13. [Decode String](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1) | | |
 | 14. [MinSizeSubarray](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Classic 2 pointers](14.MinSizeSubarray.md) | M |

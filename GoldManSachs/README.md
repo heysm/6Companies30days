@@ -16,7 +16,7 @@
 | 7. [MthPosition](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/) | ``` int findPosition(int N , int M , int K) {return (K+M-1)%N == 0 ? N : (K+M-1)%N;    } ``` | B |
 | 8. [DecodeWays](https://leetcode.com/problems/decode-ways/) || |
 | 9. [ID pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1) || |
-| 10. Find max 10 numbers in a list having 10M entries| [StackOverflow](https://stackoverflow.com/questions/32234711/which-sorting-algorithm-works-best-on-very-large-data-set) open ended | O |
+| 10. Find max 10 numbers in a list having 10M entries| [StackOverflow](https://stackoverflow.com/questions/32234711/which-sorting-algorithm-works-best-on-very-large-data-set) , [Quora](https://www.quora.com/Which-sorting-algorithm-is-efficient-for-large-data-and-why) | O |
 | 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) | [use indices as a measure (-1* if found ) ](11.MissingNumbers.md) | |
 | 12. [TotalSquaresChess](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1) | ```(n*(n+1)*((2*n)+1))/6``` | B |
 | 13. [Decode String](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1) | | |

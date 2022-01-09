@@ -20,7 +20,7 @@
 | 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) || |
 | 12. [TotalSquaresChess](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1) || |
 | 13. [Decode String](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1) | | |
-| 14. [MinSizeSubarray](https://leetcode.com/problems/minimum-size-subarray-sum/) | | |
+| 14. [MinSizeSubarray](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Classic 2 pointers](14.MinSizeSubarray.md) | M |
 | 15. [ArrayPairs](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | | |
 
 <br>

@@ -9,10 +9,11 @@ This site contains the solution and questions of the recently asked questions fo
 - [GoldManSachs](GoldManSachs/README.md)
 - [Amazon](Amazon/README.md)
 
+
+
+
+### Other Useful Resources 
+- [ASCII Table](https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html)
+
 > If you like this project consider starring the [repo](https://github.com/heysm/6Companies30days), you may check out my other cool projects on [github](https://github.com/sa-y-an). 
-
-
-
-
-
 <!-- <p align="center"> Build with ❤️ by <a href="https://sayanmondal.tech">Sayan Mondal</a></p> -->

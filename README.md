@@ -8,6 +8,7 @@ This site contains the solution and questions of the recently asked questions fo
 
 - [GoldManSachs](GoldManSachs/README.md)
 - [Amazon](Amazon/README.md)
+- [MicroSoft](Microsoft/README.md)
 
 
 

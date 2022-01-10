@@ -14,7 +14,7 @@
 | 5. [RunLengthEncoding](https://leetcode.com/problems/string-compression/) | tbd  | M |
 | 6. [GCD Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [ str1+str2 == str2+str1 : gcd of strs = gcd of len ](5.gcdStrings.md) | M |
 | 7. [MthPosition](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/) | ``` int findPosition(int N , int M , int K) {return (K+M-1)%N == 0 ? N : (K+M-1)%N;    } ``` | B |
-| 8. [DecodeWays](https://leetcode.com/problems/decode-ways/) || |
+| 8. [DecodeWays](https://leetcode.com/problems/decode-ways/) | DP [ If curr idx valid : numWays[i] += numWays[i+1] : <br/> idx + (idx+1) forms a valid combo : numWays[i] += numWays[i+2] ](8.DecodeWays.md) | M |
 | 9. [ID pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1) | [REDO](13.IDPattern.md) | ? |
 | 10. Find max 10 numbers in a list having 10M entries|  [An array of top 10](10.Max10in10m.md) | O |
 | 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) | [use indices as a measure (-1* if found ) ](11.MissingNumbers.md) | |

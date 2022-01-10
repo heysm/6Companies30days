@@ -19,7 +19,7 @@
 | 10. Find max 10 numbers in a list having 10M entries|  [An array of top 10](10.Max10in10m.md) | O |
 | 11. [Missing Numbers](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) | [use indices as a measure (-1* if found ) ](11.MissingNumbers.md) | |
 | 12. [TotalSquaresChess](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1) | ```(n*(n+1)*((2*n)+1))/6``` | B |
-| 13. [Decode String](https://leetcode.com/problems/decode-string/) | [Simple Recursion](13.Decode%20String.md)  | M |
+| 13. [Decode String](https://leetcode.com/problems/decode-string/) | [Simple Recursion](13.DecodeString.md)  | M |
 | 14. [MinSizeSubarray](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Classic 2 pointers](14.MinSizeSubarray.md) | M |
 | 15. [ArrayPairs](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [if sum of modulos is div then nums are also div ](15.ArrayPairs.md) | M |
 

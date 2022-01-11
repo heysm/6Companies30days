@@ -13,7 +13,7 @@
 | 4. [UglyNumber 2 ](https://leetcode.com/problems/ugly-number-ii/) | [Use a set or pq to revaluate the min each time, set.pb(currX {2,3,5} ), set.erase(curr) <br/> DP idea - since each number can be generated from former ugly numbers by multiplying 2,3,5 (maintain pointers at 2,3,5) and increment accordingly ](4.UglyNumbers.md) | M |
 | 5. [RunLengthEncoding](https://leetcode.com/problems/string-compression/) | [2 pointers: r - find similiar items, l - update ](5.RunLengthEncoding.md)  | M |
 | 6. [GCD Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [ str1+str2 == str2+str1 : gcd of strs = gcd of len ](6.gcdStrings.md) | M |
-| 7. [MthPosition](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/) | ```  (K+M-1)%N == 0 ? N : (K+M-1)%N  ``` | B |
+| 7. [MthPosition](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/) | ``` (K+M-1)%N == 0 ? N : (K+M-1)%N ``` | B |
 | 8. [DecodeWays](https://leetcode.com/problems/decode-ways/) | DP [ If curr idx valid : numWays[i] += numWays[i+1] : <br/> idx + (idx+1) forms a valid combo : numWays[i] += numWays[i+2] ](8.DecodeWays.md) | M |
 | 9. [ID pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1) | [REDO](9.IDPattern.md) | ? |
 | 10. Find max 10 numbers in a list having 10M entries|  [An array of top 10](10.Max10in10m.md) | O |

@@ -7,7 +7,7 @@
 | Question Link     | Logic ( Click for code )      | C |
 | -----------   | ----------- | --- |
 | 1. [Buy & Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | | H |
-| 2. [LongestMountain](https://leetcode.com/problems/longest-mountain-in-array/) | | M |
+| 2. [LongestMountain](https://leetcode.com/problems/longest-mountain-in-array/) | [while iterating : find inc, find dec , ht = max(inc+dec+1,ht)](2.LongestMountain.md) | M |
 | 3. [IPL](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/) | |
 | 4. [Brackets in MatrixChain](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/) |  |
 | 5. [Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/) | |

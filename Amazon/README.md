@@ -14,7 +14,7 @@
 | 6. [First Non Repeating Char](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) |  |
 | 7. [Max of all subarray](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | |
 | 8. [Ways to Nth Chair](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/) | |
-| 9. [Valid Sudoku](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/) | |
+| 9. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | M |
 | 10. [Nuts & Bolts](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1) | |
 | 11. [ Serialize & Desrialize Tree ](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | |
 | 12. [ColumnNameFrom#](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/) | |
